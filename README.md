@@ -12,7 +12,7 @@ WordPress 轻量级水印插件，支持文字水印和图片水印，自动为�
 | ------------ | ------------------------------------------------------------ |
 | 插件更新地址 | https://www.lezaiyun.com/792.html                            |
 | 团队成员     | [老蒋](https://www.laojiang.me/)、老赵、CNJOEL、木村         |
-| 支持网站     | [主机评价网](https://www.zhujipingjia.com/)                  |
+| 支持网站     | 乐在云、主机评价网、老蒋玩主机                               |
 | 建站资源推荐 | [便宜VPS推荐](https://www.zhujipingjia.com/pianyivps.html)、[美国VPS推荐](https://www.zhujipingjia.com/uscn2gia.html)、[外贸建站主机](https://www.zhujipingjia.com/wordpress-hosting.html)、[SSL证书推荐](https://www.zhujipingjia.com/two-ssls.html)、[WordPress主机推荐](https://www.zhujipingjia.com/wpblog-host.html) |
 
 ## 功能特性
@@ -135,4 +135,4 @@ GPL v2 或更高版本 - [查看完整许可证](http://www.gnu.org/licenses/gpl
 
 老蒋和他的伙伴们（公众号：老蒋朋友圈） 
 
-![](D:\phpEnv\www\www.chajian.com\wp-content\plugins\wpwatermark\wechat.png)
+![](wechat.png)
